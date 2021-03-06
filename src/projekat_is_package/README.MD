@@ -1,4 +1,4 @@
-#Timetable_maker
+# Timetable_maker
 
 Java application that:
 - loads list of university subjects from JSON file
